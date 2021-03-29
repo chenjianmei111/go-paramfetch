@@ -4,4 +4,4 @@ A program used to download Groth parameters and verifying keys used by the Filec
 
 ## License
 
-Dual-licensed under [MIT](https://github.com/filecoin-project/go-paramfetch/blob/master/LICENSE-MIT) + [Apache 2.0](https://github.com/filecoin-project/go-paramfetch/blob/master/LICENSE-APACHE)
+Dual-licensed under [MIT](https://github.com/chenjianmei111/go-paramfetch/blob/master/LICENSE-MIT) + [Apache 2.0](https://github.com/chenjianmei111/go-paramfetch/blob/master/LICENSE-APACHE)

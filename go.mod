@@ -1,4 +1,4 @@
-module github.com/filecoin-project/go-paramfetch
+module github.com/chenjianmei111/go-paramfetch
 
 go 1.13
 
